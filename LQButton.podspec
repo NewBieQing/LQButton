@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 		     :tag => "0.1.0" }
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.platform     = :ios, '8.0'
-  s.source_files = "LQButton/**/*.swift"
+  s.source_files = "LQButton/*"
 
   s.requires_arc = true
   
